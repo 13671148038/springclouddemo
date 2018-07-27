@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="demospringboot-load-balancing-client" />
+        <module name="springboot-circuit-breaker-client" />
+        <module name="springboot-circuit-breaker-service" />
+        <module name="springboot-config-client" />
+        <module name="springboot-config-service" />
+        <module name="springboot-dao" />
+        <module name="springboot-eureka-client" />
+        <module name="springboot-eureka-service" />
+        <module name="springboot-load-balancing-client" />
+        <module name="springboot-load-balancing-service" />
+        <module name="springboot-routing-client" />
+        <module name="springboot-routing-service" />
+        <module name="springboot-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demospringboot-load-balancing-client" target="1.8" />
+      <module name="springboot-circuit-breaker-client" target="1.5" />
+      <module name="springboot-circuit-breaker-service" target="1.5" />
+      <module name="springboot-config-client" target="1.5" />
+      <module name="springboot-config-service" target="1.5" />
+      <module name="springboot-dao" target="1.5" />
+      <module name="springboot-eureka-client" target="1.5" />
+      <module name="springboot-eureka-service" target="1.5" />
+      <module name="springboot-load-balancing-client" target="1.5" />
+      <module name="springboot-load-balancing-service" target="1.5" />
+      <module name="springboot-routing-client" target="1.5" />
+      <module name="springboot-routing-service" target="1.5" />
+      <module name="springboot-service" target="1.8" />
+      <module name="springboottest" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

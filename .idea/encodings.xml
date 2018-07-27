@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-circuit-breaker-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-circuit-breaker-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-config-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-config-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-eureka-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-eureka-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-load-balancing-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-load-balancing-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-routing-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-routing-service" charset="UTF-8" />
+  </component>
+</project>

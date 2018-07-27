@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springboot-circuit-breaker-client/springboot-circuit-breaker-client.iml" filepath="$PROJECT_DIR$/springboot-circuit-breaker-client/springboot-circuit-breaker-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-circuit-breaker-service/springboot-circuit-breaker-service.iml" filepath="$PROJECT_DIR$/springboot-circuit-breaker-service/springboot-circuit-breaker-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-config-client/springboot-config-client.iml" filepath="$PROJECT_DIR$/springboot-config-client/springboot-config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-config-service/springboot-config-service.iml" filepath="$PROJECT_DIR$/springboot-config-service/springboot-config-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-eureka-client/springboot-eureka-client.iml" filepath="$PROJECT_DIR$/springboot-eureka-client/springboot-eureka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-eureka-service/springboot-eureka-service.iml" filepath="$PROJECT_DIR$/springboot-eureka-service/springboot-eureka-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-load-balancing-client/springboot-load-balancing-client.iml" filepath="$PROJECT_DIR$/springboot-load-balancing-client/springboot-load-balancing-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-load-balancing-service/springboot-load-balancing-service.iml" filepath="$PROJECT_DIR$/springboot-load-balancing-service/springboot-load-balancing-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-routing-client/springboot-routing-client.iml" filepath="$PROJECT_DIR$/springboot-routing-client/springboot-routing-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-routing-service/springboot-routing-service.iml" filepath="$PROJECT_DIR$/springboot-routing-service/springboot-routing-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboottest.iml" filepath="$PROJECT_DIR$/springboottest.iml" />
+    </modules>
+  </component>
+</project>

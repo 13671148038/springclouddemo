@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <type id="Spring" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-dao/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-service/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-eureka-service/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-eureka-client/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-circuit-breaker-service/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-circuit-breaker-client/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-load-balancing-service/pom.xml" />
+        <option value="$PROJECT_DIR$/demospringboot-load-balancing-client/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-routing-service/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-routing-client/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8 (1)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SvnBranchConfigurationManager">
+    <option name="mySupportsUserInfoFilter" value="true" />
+  </component>
+</project>
