@@ -10,15 +10,15 @@ import org.springframework.context.annotation.Configuration;
 /**
  * Created by MyPC on 2018/7/27.
  */
-@Configuration
-public class RibbonConfig {
-    @Bean
-    public IPing ribbonPing() {
-        return new PingUrl();
-    }
-
-    @Bean
-    public IRule ribbonRule() {
-        return new AvailabilityFilteringRule();
-    }
-}
+//@Configuration
+//public class RibbonConfig {
+//    @Bean
+//    public IPing ribbonPing() {
+//        return new PingUrl();
+//    }
+//
+//    @Bean
+//    public IRule ribbonRule() {
+//        return new AvailabilityFilteringRule();
+//    }
+//}

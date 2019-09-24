@@ -11,14 +11,14 @@ import org.springframework.web.client.RestTemplate;
 /**
  * Created by MyPC on 2018/7/27.
  */
-@RibbonClient(name = "say-hello",configuration = RibbonConfig.class)
+//@RibbonClient(name = "say-hello",configuration = RibbonConfig.class)
 @Service
 public class UserServiceImpl implements UserService {
 
         @Autowired
         private RestTemplate restTemplate;
 
-        @Value("${uri2}")
+        @Value("${uri}")
         private String uri;
         public String getGreeting() {
             String greeting = restTemplate.getForObject (uri+"greeting/", String.class);
